@@ -1,0 +1,154 @@
+{
+  "responsive": [
+    {
+      "page": "home",
+      "width": 360,
+      "passed": true
+    },
+    {
+      "page": "home",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "page": "home",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "page": "home",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "page": "home",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "page": "home",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "page": "our-story/",
+      "width": 360,
+      "passed": true
+    },
+    {
+      "page": "our-story/",
+      "width": 390,
+      "passed": true
+    },
+    {
+      "page": "our-story/",
+      "width": 768,
+      "passed": true
+    },
+    {
+      "page": "our-story/",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "page": "our-story/",
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "page": "our-story/",
+      "width": 1920,
+      "passed": true
+    }
+  ],
+  "forms": [
+    {
+      "page": "home",
+      "journey": "schools",
+      "passed": true,
+      "recipient": "233555401859"
+    },
+    {
+      "page": "home",
+      "journey": "partners",
+      "passed": true,
+      "recipient": "233555401859"
+    },
+    {
+      "page": "home",
+      "journey": "businesses",
+      "passed": true,
+      "recipient": "233555401859"
+    },
+    {
+      "page": "home",
+      "journey": "general",
+      "passed": true,
+      "recipient": "233555401859"
+    },
+    {
+      "page": "our-story",
+      "journey": "schools",
+      "passed": true,
+      "recipient": "233555401859"
+    },
+    {
+      "page": "our-story",
+      "journey": "partners",
+      "passed": true,
+      "recipient": "233555401859"
+    },
+    {
+      "page": "our-story",
+      "journey": "businesses",
+      "passed": true,
+      "recipient": "233555401859"
+    },
+    {
+      "page": "our-story",
+      "journey": "general",
+      "passed": true,
+      "recipient": "233555401859"
+    }
+  ],
+  "accessibility": [
+    {
+      "page": "home",
+      "violations": []
+    },
+    {
+      "page": "our-story",
+      "violations": []
+    }
+  ],
+  "keyboard": [
+    {
+      "page": "home",
+      "menu": "Enter, Tab and Escape pass; focus returns",
+      "skipLink": true,
+      "faq": "native disclosure tested"
+    },
+    {
+      "page": "our-story",
+      "menu": "Enter, Tab and Escape pass; focus returns",
+      "skipLink": true,
+      "faq": "not applicable"
+    }
+  ],
+  "progressiveEnhancement": [
+    {
+      "page": "home",
+      "passed": true
+    },
+    {
+      "page": "our-story",
+      "passed": true
+    }
+  ],
+  "screenshots": [
+    "previews/home-desktop.jpg",
+    "previews/home-mobile.jpg",
+    "previews/our-story-desktop.jpg",
+    "previews/our-story-mobile.jpg"
+  ]
+}

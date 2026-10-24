@@ -1,0 +1,68 @@
+{
+  "scope": "2026-10-25 centered direct WhatsApp contact, forms removed",
+  "browserQA": "blocked by sandbox; pending",
+  "pages": [
+    {
+      "page": "index.html",
+      "localReferencesChecked": 36,
+      "images": [
+        {
+          "file": "assets/images/paper-next-chapter-1672.webp",
+          "dimensions": [
+            1672,
+            941
+          ]
+        },
+        {
+          "file": "assets/images/schoolbooks-736.webp",
+          "dimensions": [
+            736,
+            968
+          ]
+        },
+        {
+          "file": "assets/images/atika-portrait-1086.webp",
+          "dimensions": [
+            1086,
+            1448
+          ]
+        }
+      ],
+      "contact": "direct WhatsApp link; no forms",
+      "passed": true
+    },
+    {
+      "page": "our-story/index.html",
+      "localReferencesChecked": 27,
+      "images": [
+        {
+          "file": "assets/images/atika-portrait-1086.webp",
+          "dimensions": [
+            1086,
+            1448
+          ]
+        },
+        {
+          "file": "assets/images/bundled-paper-1086.webp",
+          "dimensions": [
+            1086,
+            1448
+          ]
+        }
+      ],
+      "contact": "direct WhatsApp link; no forms",
+      "passed": true
+    }
+  ],
+  "export": {
+    "passed": true,
+    "files": 27,
+    "bytes": 1537080
+  },
+  "metadataGeneration": {
+    "passed": true,
+    "repositorySubpath": true,
+    "testHostOnly": "example.invalid, isolated temp copy"
+  },
+  "passed": true
+}

@@ -1,0 +1,24 @@
+{
+  "home": {
+    "scores": {
+      "performance": 95,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": "2.6\u00a0s",
+    "tbt": "160\u00a0ms",
+    "cls": "0"
+  },
+  "story": {
+    "scores": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": "2.1\u00a0s",
+    "tbt": "100\u00a0ms",
+    "cls": "0"
+  }
+}

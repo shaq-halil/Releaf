@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "prefix": "/repository/",
+  "checks": [
+    "direct root and nested page loads",
+    "relative CSS, fonts and images",
+    "cross-page Home and Our Story navigation"
+  ],
+  "failedRequests": []
+}
